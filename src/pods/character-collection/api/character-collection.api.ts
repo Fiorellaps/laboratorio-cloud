@@ -1,6 +1,6 @@
 import { CharacterEntityApi } from './character-collection.api-model';
 import Axios from 'axios';
-import { CharactersMockData } from 'pods/character/api/mock-data';
+import { CharactersMockData } from './mock-data';
 //const urlCharacterCollection = 'https://rickandmortyapi.com/api/character';
 const urlCharacterCollection = '/api/character';
 
